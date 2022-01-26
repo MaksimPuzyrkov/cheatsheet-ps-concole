@@ -1,0 +1,59 @@
+Teams
+-	General
+Ctrl .	Show keyboard shortcuts
+Ctrl E	Go to Search
+Ctrl /	Show commands
+Ctrl Shift F	Open filter
+Ctrl G	Goto
+Ctrl N	Start new chat
+Ctrl Shift N	Pop out new chat
+Ctrl ,	Open Settings
+
+-	Navigation
+Ctrl 1	Open Activity
+Ctrl 2	Open Chat
+Ctrl 3	Open Teams
+Alt ↑	Go to previous list item
+Alt ↓	Go to next list item
+Ctrl Shift ↑	Move selected team up
+Ctrl Shift ↓	Move selected team down
+Ctrl Shift H	Open history menu
+Ctrl Shift F6	Go to previous section
+Ctrl F6	Go to next section
+
+-	Messaging
+Alt Shift C	Go to compose box
+Alt Shift R	Reply to thread
+Ctrl Shift X	Expand compose box
+Ctrl Enter	Send (expanded compose box)
+CtrlO	Attach file
+Shift Enter	Start new line
+Ctrl F	Search current Chat/Channel messages
+
+- Meetings, Calls and Calendar
+Ctrl Shift A	Accept video call
+Ctrl Shift S	Accept audio call
+Ctrl Shift D	Decline call
+Ctrl Shift C	Start audio call
+Ctrl Shift U	Start video call
+Ctrl Shift L	Announce raised hands (screen reader)
+Ctrl Shift K	Raise or lower your hand
+Ctrl Shift M	Toggle mute
+Ctrl Shift O	Toggle video
+Ctrl Shift E	Start screen share session
+Ctrl Shift Space	Go to sharing toolbar
+Ctrl Shift D	Decline screen share
+Ctrl Shift A	Accept screen share
+Ctrl Space	Temporarily unmute
+Ctrl Shift Y	Admit people from lobby notification
+Ctrl Shift P	Toggle background blur
+Alt Shift N	Schedule a meeting
+Alt .	Go to current time
+Ctrl Alt ←	Go to previous day/week
+Ctrl Alt →	Go to next day/week
+Ctrl Alt 1	View day
+Ctrl Alt 2	View workweek
+Ctrl Alt 3	View week
+Ctrl S	Save/send meeting request
+Alt Shift J	Join from meeting details
+Alt Shift S	Go to suggested time

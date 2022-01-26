@@ -1,0 +1,5 @@
+Outlook .PWA.
+Ctrl + Alt + 1	Outlook...
+Ctrl + Shift + 1	Open Activity tab
+Ctrl + Shift + 2	Open Chat tab
+Ctrl + Shift + 3	Open Teams tab
